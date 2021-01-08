@@ -29,6 +29,6 @@ def basic_stats(person_list):
    return age_mean, age_median, age_mode
 
 
-person_list = [Person("Kyoungmin", 73)  , Person("Mercedes", 24) , Person("Avanika", 48) , Person("Marta", 24)]
+# person_list = [Person("Kyoungmin", 73)  , Person("Mercedes", 24) , Person("Avanika", 48) , Person("Marta", 24)]
 
-print(basic_stats(person_list))
+# print(basic_stats(person_list))
